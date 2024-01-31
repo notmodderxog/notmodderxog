@@ -1,7 +1,21 @@
-<h1>notmodderxog</h1> <br>
-<p1><b>OLD ACCOUNT/NOTMODDERX</p1><br>
-<p2><b>HACKING,  WEB DEVELOPMENT , BUG HUNTING</p2>
-<!---
-notmodderxog/notmodderxog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋 I'm MODDERX
+
+Welcome to my GitHub profile! I'm passionate about hacking, web development, and bug hunting.
+
+## Hacking | Bug Hunting
+
+- 🕵️ Currently exploring the world of ethical hacking and bug hunting.
+- 💻 Constantly learning new techniques to improve security.
+
+## Web Development
+
+- 🌐 Skilled in various web development technologies.
+- 🔧 Creating web applications to solve real-world problems.
+
+## Let's Connect
+
+- 📫 Feel free to reach out: [Email](mailto:unrealmodderx@gmailcom)
+- 📷 Follow me on [Instagram](https://instagram.com/notmodderx)
+
+  ## OLD ACCOUNT 
+[OLD ACCOUNT](https://github.com/notmodderx)
